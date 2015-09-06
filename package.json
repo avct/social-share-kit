@@ -1,0 +1,9 @@
+{
+  "name": "social-share-kit",
+  "version": "1.0.6",
+  "description": "Library of decent and good looking CSS/JavaScript social sharing icons, buttons and popups",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avct/social-share-kit.git"
+  }
+}
